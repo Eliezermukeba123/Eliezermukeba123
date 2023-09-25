@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eliezer Mbunda 
-- 👀 je suis intéressé par la programmation web
+- 👀 je suis intéressé par la programmation informatique
 - 💞️ Envie d'apprendre les nouvelles technologies, j'aime la science
 
 <!---
