@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Eliezermukeba123
+- 👋 Hi, I’m Eliezer Mbunda 
 - 👀 je suis intéressé par la programmation web
-- 💞️ je veux collaborer dans la programmation avec django
+- 💞️ Envie d'apprendre les nouvelles technologies, j'aime la science
 
 <!---
 Eliezermukeba123/Eliezermukeba123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
